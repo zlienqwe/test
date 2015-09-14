@@ -1,5 +1,19 @@
-_Store
-*/build/*
+S X
+
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+# Thumbnails
+._*
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Xcode
+
+.DS_Store
+build/
 *.pbxuser
 !default.pbxuser
 *.mode1v3
@@ -8,13 +22,11 @@ _Store
 !default.mode2v3
 *.perspectivev3
 !default.perspectivev3
+*.xcworkspace
+!default.xcworkspace
 xcuserdata
 profile
 *.moved-aside
 DerivedData
 .idea/
-*.hmap
-*.orig
 
-#CocoaPods
-Pods
